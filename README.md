@@ -48,6 +48,6 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJunHyeok&layout=compact&theme=radical)
   <br>
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhyoon1607)](https://solved.ac/jhyoon1607)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyoon1607)](https://solved.ac/jhyoon1607/)
   <br>
 </div>
