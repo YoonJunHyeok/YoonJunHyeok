@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **YoonJunHyeok/YoonJunHyeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="jhyoon1607@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=EA4335&logoColor=000000"/></a>
