@@ -36,9 +36,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+  
+  ![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJunHyeok&show_icons=true&theme=radical)
+  <br>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJunHyeok&layout=compact&theme=radical)
+  <br>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhyoon1607)](https://solved.ac/jhyoon1607)
+  <br>
 </div>
 
-![Junhyeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonJunHyeok&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJunHyeok&layout=compact&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhyoon1607)](https://solved.ac/jhyoon1607)
 
