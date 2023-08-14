@@ -48,8 +48,8 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJunHyeok&layout=compact&theme=slateorange)
   <br> -->
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoonJunHyeok&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJunHyeok&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YoonJunHyeok&show_icons=true&include_all_commits=true&theme=slateorange">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonJunHyeok&layout=compact&theme=slateorange">
   </p>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhyoon1607)](https://solved.ac/jhyoon1607/)
